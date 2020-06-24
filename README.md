@@ -5,7 +5,8 @@ Some result from the notebook:
 
 |Word|           |True| 	 |Pred|
 |---|            |---|     |---|
-longevity      O	,
+|longevity|      |O|	|,|
+
 there          O	O
 is             O	O
 no             O	O
