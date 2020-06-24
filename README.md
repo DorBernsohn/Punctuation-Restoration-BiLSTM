@@ -4,7 +4,6 @@ Punctuation restoration on TED transcript using BiLSTM
 Some result from the notebook:
 
 Word           True 	 Pred
-
 ------------------------------
 longevity      O	,
 there          O	O
