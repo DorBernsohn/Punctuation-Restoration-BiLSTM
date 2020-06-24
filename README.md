@@ -3,9 +3,9 @@ Punctuation restoration on TED transcript using BiLSTM
 
 Some result from the notebook:
 
-|Word|           |True| 	 |Pred|
-|---|            |---|     |---|
-|longevity|      |O|	|,|
+| Word |           | True | 	 | Pred |
+| ---- |           | ---- |    | ---- |
+| longevity |      | O    |	   | ,    |
 
 there          O	O
 is             O	O
