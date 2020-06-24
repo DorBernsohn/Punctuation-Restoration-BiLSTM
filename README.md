@@ -1,7 +1,7 @@
 # Punctuation-Restoration-BiLSTM
 Punctuation restoration on TED transcript using BiLSTM 
 
-Some result from the notebook:
+Some results from the notebook:
 
 | Word | True | Pred |
 | :---         |     :---:      |          ---: |
