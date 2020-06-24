@@ -7,7 +7,7 @@ Some result from the notebook:
 | :---         |     :---:      |          ---: |
 | longevity | O | , |
 | there | O | O |
-there          O	O
+there          |O	|O
 is             O	O
 no             O	O
 short          O	O
