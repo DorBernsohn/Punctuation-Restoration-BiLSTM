@@ -3,6 +3,11 @@ Punctuation restoration on TED transcript using BiLSTM
 
 Some result from the notebook:
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 | Word |           | True | 	 | Pred |
 | ---- |           | ---- |    | ---- |
 | longevity |      | O    |	   | ,    |
