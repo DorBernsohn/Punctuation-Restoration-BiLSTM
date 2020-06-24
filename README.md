@@ -5,13 +5,8 @@ Some result from the notebook:
 
 | Word | True | Pred |
 | :---         |     :---:      |          ---: |
-| longevity | O | O |
+| longevity | O | , |
 | there | O | O |
-
-| Word |           | True | 	 | Pred |
-| ---- |           | ---- |    | ---- |
-| longevity |      | O    |	   | ,    |
-
 there          O	O
 is             O	O
 no             O	O
